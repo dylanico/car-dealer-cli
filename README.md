@@ -6,7 +6,7 @@ It's about a Car Dealer who start's his company with \$1000 and purchases a car 
 
 ## Requirements
 
--   List of hundreds of car. With specifications.
+-   List of hundreds of cars. With specifications.
 -   Damages, Document, Illegal Car (low cost but risky).
 -   Modern Luxuries Cars (high cost).
 -   Purchase car repair (if any) and sell (to a bot).
