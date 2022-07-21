@@ -1,3 +1,6 @@
+# Tutorial of the game. (True after completed)
+tutorial = False
+
 # Coins at the beginning of the game
 coins = 100
 
